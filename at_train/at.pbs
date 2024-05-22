@@ -1,0 +1,17 @@
+#!/bin/bash
+#PBS -lselect=1:ncpus=2:mem=100gb:ngpus=1
+#PBS -lwalltime=8:0:0
+  
+cd $PBS_O_WORKDIR
+  
+module load anaconda3/personal
+source activate  my_env
+cd ..
+
+python train.py --data-dir /rds/general/user/zf923/home/hat/cifar-10-batches-py \
+    --log-dir /rds/general/user/zf923/home/hat/log \
+    --desc at-cifar10-10\
+    --data cifar10 \
+    --model resnet18 \
+    --num-adv-epochs 100 \
+    --mul 10
