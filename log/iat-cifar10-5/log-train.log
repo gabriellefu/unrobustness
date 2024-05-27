@@ -1,0 +1,515 @@
+Using device: cuda
+
+
+
+Standard training for 0 epochs
+
+
+
+Standard Accuracy-	Test: 9.257812%.
+Inverse Adversarial training for 100 epochs
+======= Epoch 1 =======
+Loss: 2.1582.	LR: 0.0084
+Standard Accuracy-	Test: 53.59%.
+Inverse Adversarial Accuracy-	Train: 76.69%.
+Time taken: 0:02:45
+======= Epoch 2 =======
+Loss: 1.1829.	LR: 0.0092
+Standard Accuracy-	Test: 69.99%.
+Inverse Adversarial Accuracy-	Train: 93.41%.
+Time taken: 0:02:45
+======= Epoch 3 =======
+Loss: 0.9098.	LR: 0.0116
+Standard Accuracy-	Test: 70.77%.
+Inverse Adversarial Accuracy-	Train: 95.67%.
+Time taken: 0:02:45
+======= Epoch 4 =======
+Loss: 0.8046.	LR: 0.0155
+Standard Accuracy-	Test: 73.64%.
+Inverse Adversarial Accuracy-	Train: 95.83%.
+Time taken: 0:02:45
+======= Epoch 5 =======
+Loss: 0.7327.	LR: 0.0209
+Standard Accuracy-	Test: 74.86%.
+Inverse Adversarial Accuracy-	Train: 96.15%.
+Time taken: 0:02:45
+======= Epoch 6 =======
+Loss: 0.6687.	LR: 0.0277
+Standard Accuracy-	Test: 79.77%.
+Inverse Adversarial Accuracy-	Train: 96.95%.
+Time taken: 0:02:45
+======= Epoch 7 =======
+Loss: 0.6426.	LR: 0.0357
+Standard Accuracy-	Test: 76.34%.
+Inverse Adversarial Accuracy-	Train: 96.72%.
+Time taken: 0:02:45
+======= Epoch 8 =======
+Loss: 0.6267.	LR: 0.0450
+Standard Accuracy-	Test: 79.80%.
+Inverse Adversarial Accuracy-	Train: 96.65%.
+Time taken: 0:02:45
+======= Epoch 9 =======
+Loss: 0.5903.	LR: 0.0552
+Standard Accuracy-	Test: 79.91%.
+Inverse Adversarial Accuracy-	Train: 96.87%.
+Time taken: 0:02:45
+======= Epoch 10 =======
+Loss: 0.5742.	LR: 0.0663
+Standard Accuracy-	Test: 77.70%.
+Inverse Adversarial Accuracy-	Train: 97.02%.
+Time taken: 0:02:45
+======= Epoch 11 =======
+Loss: 0.5588.	LR: 0.0781
+Standard Accuracy-	Test: 80.78%.
+Inverse Adversarial Accuracy-	Train: 97.04%.
+Time taken: 0:02:45
+======= Epoch 12 =======
+Loss: 0.5625.	LR: 0.0903
+Standard Accuracy-	Test: 80.18%.
+Inverse Adversarial Accuracy-	Train: 96.85%.
+Time taken: 0:02:45
+======= Epoch 13 =======
+Loss: 0.5682.	LR: 0.1029
+Standard Accuracy-	Test: 75.89%.
+Inverse Adversarial Accuracy-	Train: 96.66%.
+Time taken: 0:02:45
+======= Epoch 14 =======
+Loss: 0.5643.	LR: 0.1155
+Standard Accuracy-	Test: 78.97%.
+Inverse Adversarial Accuracy-	Train: 96.58%.
+Time taken: 0:02:45
+======= Epoch 15 =======
+Loss: 0.5734.	LR: 0.1281
+Standard Accuracy-	Test: 78.84%.
+Inverse Adversarial Accuracy-	Train: 96.47%.
+Time taken: 0:02:45
+======= Epoch 16 =======
+Loss: 0.5658.	LR: 0.1404
+Standard Accuracy-	Test: 73.22%.
+Inverse Adversarial Accuracy-	Train: 96.58%.
+Time taken: 0:02:45
+======= Epoch 17 =======
+Loss: 0.5494.	LR: 0.1521
+Standard Accuracy-	Test: 80.81%.
+Inverse Adversarial Accuracy-	Train: 96.93%.
+Time taken: 0:02:45
+======= Epoch 18 =======
+Loss: 0.5450.	LR: 0.1632
+Standard Accuracy-	Test: 80.46%.
+Inverse Adversarial Accuracy-	Train: 96.91%.
+Time taken: 0:02:45
+======= Epoch 19 =======
+Loss: 0.5389.	LR: 0.1735
+Standard Accuracy-	Test: 80.05%.
+Inverse Adversarial Accuracy-	Train: 96.96%.
+Time taken: 0:02:45
+======= Epoch 20 =======
+Loss: 0.5433.	LR: 0.1827
+Standard Accuracy-	Test: 75.42%.
+Inverse Adversarial Accuracy-	Train: 96.79%.
+Time taken: 0:02:45
+======= Epoch 21 =======
+Loss: 0.5431.	LR: 0.1908
+Standard Accuracy-	Test: 78.61%.
+Inverse Adversarial Accuracy-	Train: 96.88%.
+Time taken: 0:02:45
+======= Epoch 22 =======
+Loss: 0.5398.	LR: 0.1975
+Standard Accuracy-	Test: 77.68%.
+Inverse Adversarial Accuracy-	Train: 96.95%.
+Time taken: 0:02:45
+======= Epoch 23 =======
+Loss: 0.5633.	LR: 0.2029
+Standard Accuracy-	Test: 79.07%.
+Inverse Adversarial Accuracy-	Train: 96.41%.
+Time taken: 0:02:45
+======= Epoch 24 =======
+Loss: 0.5559.	LR: 0.2068
+Standard Accuracy-	Test: 68.82%.
+Inverse Adversarial Accuracy-	Train: 96.44%.
+Time taken: 0:02:45
+======= Epoch 25 =======
+Loss: 0.5371.	LR: 0.2092
+Standard Accuracy-	Test: 74.75%.
+Inverse Adversarial Accuracy-	Train: 96.67%.
+Time taken: 0:02:45
+======= Epoch 26 =======
+Loss: 0.5328.	LR: 0.2100
+Standard Accuracy-	Test: 75.71%.
+Inverse Adversarial Accuracy-	Train: 96.68%.
+Time taken: 0:02:45
+======= Epoch 27 =======
+Loss: 0.5407.	LR: 0.2099
+Standard Accuracy-	Test: 72.85%.
+Inverse Adversarial Accuracy-	Train: 96.58%.
+Time taken: 0:02:45
+======= Epoch 28 =======
+Loss: 0.5435.	LR: 0.2096
+Standard Accuracy-	Test: 78.54%.
+Inverse Adversarial Accuracy-	Train: 96.50%.
+Time taken: 0:02:45
+======= Epoch 29 =======
+Loss: 0.5156.	LR: 0.2092
+Standard Accuracy-	Test: 76.13%.
+Inverse Adversarial Accuracy-	Train: 96.90%.
+Time taken: 0:02:45
+======= Epoch 30 =======
+Loss: 0.5285.	LR: 0.2085
+Standard Accuracy-	Test: 80.55%.
+Inverse Adversarial Accuracy-	Train: 96.85%.	Test: 95.34%.
+Time taken: 0:03:33
+======= Epoch 31 =======
+Loss: 0.5243.	LR: 0.2077
+Standard Accuracy-	Test: 80.36%.
+Inverse Adversarial Accuracy-	Train: 96.72%.
+Time taken: 0:02:45
+======= Epoch 32 =======
+Loss: 0.5133.	LR: 0.2067
+Standard Accuracy-	Test: 78.52%.
+Inverse Adversarial Accuracy-	Train: 96.90%.
+Time taken: 0:02:45
+======= Epoch 33 =======
+Loss: 0.5060.	LR: 0.2055
+Standard Accuracy-	Test: 80.89%.
+Inverse Adversarial Accuracy-	Train: 97.17%.
+Time taken: 0:02:45
+======= Epoch 34 =======
+Loss: 0.5031.	LR: 0.2042
+Standard Accuracy-	Test: 77.03%.
+Inverse Adversarial Accuracy-	Train: 97.18%.
+Time taken: 0:02:45
+======= Epoch 35 =======
+Loss: 0.4971.	LR: 0.2026
+Standard Accuracy-	Test: 82.89%.
+Inverse Adversarial Accuracy-	Train: 97.17%.
+Time taken: 0:02:45
+======= Epoch 36 =======
+Loss: 0.4894.	LR: 0.2009
+Standard Accuracy-	Test: 81.74%.
+Inverse Adversarial Accuracy-	Train: 97.29%.
+Time taken: 0:02:45
+======= Epoch 37 =======
+Loss: 0.4956.	LR: 0.1990
+Standard Accuracy-	Test: 83.62%.
+Inverse Adversarial Accuracy-	Train: 97.07%.
+Time taken: 0:02:45
+======= Epoch 38 =======
+Loss: 0.4844.	LR: 0.1970
+Standard Accuracy-	Test: 80.02%.
+Inverse Adversarial Accuracy-	Train: 97.41%.
+Time taken: 0:02:45
+======= Epoch 39 =======
+Loss: 0.4952.	LR: 0.1948
+Standard Accuracy-	Test: 77.49%.
+Inverse Adversarial Accuracy-	Train: 97.23%.
+Time taken: 0:02:45
+======= Epoch 40 =======
+Loss: 0.4915.	LR: 0.1925
+Standard Accuracy-	Test: 78.00%.
+Inverse Adversarial Accuracy-	Train: 97.34%.
+Time taken: 0:02:45
+======= Epoch 41 =======
+Loss: 0.4648.	LR: 0.1899
+Standard Accuracy-	Test: 82.14%.
+Inverse Adversarial Accuracy-	Train: 97.59%.
+Time taken: 0:02:45
+======= Epoch 42 =======
+Loss: 0.4915.	LR: 0.1873
+Standard Accuracy-	Test: 80.02%.
+Inverse Adversarial Accuracy-	Train: 97.10%.
+Time taken: 0:02:45
+======= Epoch 43 =======
+Loss: 0.4713.	LR: 0.1845
+Standard Accuracy-	Test: 81.32%.
+Inverse Adversarial Accuracy-	Train: 97.46%.
+Time taken: 0:02:45
+======= Epoch 44 =======
+Loss: 0.4935.	LR: 0.1815
+Standard Accuracy-	Test: 76.56%.
+Inverse Adversarial Accuracy-	Train: 97.02%.
+Time taken: 0:02:45
+======= Epoch 45 =======
+Loss: 0.4823.	LR: 0.1785
+Standard Accuracy-	Test: 73.77%.
+Inverse Adversarial Accuracy-	Train: 97.09%.
+Time taken: 0:02:45
+======= Epoch 46 =======
+Loss: 0.4810.	LR: 0.1753
+Standard Accuracy-	Test: 83.48%.
+Inverse Adversarial Accuracy-	Train: 97.09%.
+Time taken: 0:02:45
+======= Epoch 47 =======
+Loss: 0.4748.	LR: 0.1719
+Standard Accuracy-	Test: 80.37%.
+Inverse Adversarial Accuracy-	Train: 97.15%.
+Time taken: 0:02:45
+======= Epoch 48 =======
+Loss: 0.4578.	LR: 0.1685
+Standard Accuracy-	Test: 81.83%.
+Inverse Adversarial Accuracy-	Train: 97.51%.
+Time taken: 0:02:45
+======= Epoch 49 =======
+Loss: 0.4567.	LR: 0.1649
+Standard Accuracy-	Test: 79.19%.
+Inverse Adversarial Accuracy-	Train: 97.51%.
+Time taken: 0:02:45
+======= Epoch 50 =======
+Loss: 0.4535.	LR: 0.1613
+Standard Accuracy-	Test: 81.39%.
+Inverse Adversarial Accuracy-	Train: 97.60%.
+Time taken: 0:02:45
+======= Epoch 51 =======
+Loss: 0.4593.	LR: 0.1575
+Standard Accuracy-	Test: 83.45%.
+Inverse Adversarial Accuracy-	Train: 97.38%.
+Time taken: 0:02:45
+======= Epoch 52 =======
+Loss: 0.4349.	LR: 0.1536
+Standard Accuracy-	Test: 80.95%.
+Inverse Adversarial Accuracy-	Train: 97.77%.
+Time taken: 0:02:45
+======= Epoch 53 =======
+Loss: 0.4366.	LR: 0.1497
+Standard Accuracy-	Test: 79.04%.
+Inverse Adversarial Accuracy-	Train: 97.79%.
+Time taken: 0:02:45
+======= Epoch 54 =======
+Loss: 0.4335.	LR: 0.1457
+Standard Accuracy-	Test: 85.59%.
+Inverse Adversarial Accuracy-	Train: 97.78%.
+Time taken: 0:02:45
+======= Epoch 55 =======
+Loss: 0.4303.	LR: 0.1416
+Standard Accuracy-	Test: 80.89%.
+Inverse Adversarial Accuracy-	Train: 97.85%.
+Time taken: 0:02:45
+======= Epoch 56 =======
+Loss: 0.4373.	LR: 0.1374
+Standard Accuracy-	Test: 82.30%.
+Inverse Adversarial Accuracy-	Train: 97.67%.
+Time taken: 0:02:45
+======= Epoch 57 =======
+Loss: 0.4363.	LR: 0.1332
+Standard Accuracy-	Test: 80.27%.
+Inverse Adversarial Accuracy-	Train: 97.74%.
+Time taken: 0:02:45
+======= Epoch 58 =======
+Loss: 0.4276.	LR: 0.1290
+Standard Accuracy-	Test: 79.33%.
+Inverse Adversarial Accuracy-	Train: 97.62%.
+Time taken: 0:02:45
+======= Epoch 59 =======
+Loss: 0.4310.	LR: 0.1247
+Standard Accuracy-	Test: 78.31%.
+Inverse Adversarial Accuracy-	Train: 97.54%.
+Time taken: 0:02:45
+======= Epoch 60 =======
+Loss: 0.4194.	LR: 0.1203
+Standard Accuracy-	Test: 85.48%.
+Inverse Adversarial Accuracy-	Train: 97.75%.	Test: 97.48%.
+Time taken: 0:03:33
+======= Epoch 61 =======
+Loss: 0.4075.	LR: 0.1160
+Standard Accuracy-	Test: 78.60%.
+Inverse Adversarial Accuracy-	Train: 97.94%.
+Time taken: 0:02:45
+======= Epoch 62 =======
+Loss: 0.4169.	LR: 0.1116
+Standard Accuracy-	Test: 79.77%.
+Inverse Adversarial Accuracy-	Train: 97.72%.
+Time taken: 0:02:45
+======= Epoch 63 =======
+Loss: 0.3816.	LR: 0.1072
+Standard Accuracy-	Test: 83.72%.
+Inverse Adversarial Accuracy-	Train: 98.22%.
+Time taken: 0:02:45
+======= Epoch 64 =======
+Loss: 0.3910.	LR: 0.1028
+Standard Accuracy-	Test: 84.83%.
+Inverse Adversarial Accuracy-	Train: 98.11%.
+Time taken: 0:02:45
+======= Epoch 65 =======
+Loss: 0.3756.	LR: 0.0984
+Standard Accuracy-	Test: 84.75%.
+Inverse Adversarial Accuracy-	Train: 98.27%.
+Time taken: 0:02:45
+======= Epoch 66 =======
+Loss: 0.3822.	LR: 0.0940
+Standard Accuracy-	Test: 84.42%.
+Inverse Adversarial Accuracy-	Train: 97.99%.
+Time taken: 0:02:45
+======= Epoch 67 =======
+Loss: 0.3717.	LR: 0.0897
+Standard Accuracy-	Test: 84.84%.
+Inverse Adversarial Accuracy-	Train: 98.21%.
+Time taken: 0:02:45
+======= Epoch 68 =======
+Loss: 0.3597.	LR: 0.0853
+Standard Accuracy-	Test: 85.65%.
+Inverse Adversarial Accuracy-	Train: 98.29%.
+Time taken: 0:02:45
+======= Epoch 69 =======
+Loss: 0.3415.	LR: 0.0810
+Standard Accuracy-	Test: 84.37%.
+Inverse Adversarial Accuracy-	Train: 98.58%.
+Time taken: 0:02:45
+======= Epoch 70 =======
+Loss: 0.3464.	LR: 0.0768
+Standard Accuracy-	Test: 84.83%.
+Inverse Adversarial Accuracy-	Train: 98.37%.
+Time taken: 0:02:45
+======= Epoch 71 =======
+Loss: 0.3374.	LR: 0.0725
+Standard Accuracy-	Test: 84.27%.
+Inverse Adversarial Accuracy-	Train: 98.54%.
+Time taken: 0:02:45
+======= Epoch 72 =======
+Loss: 0.3297.	LR: 0.0684
+Standard Accuracy-	Test: 88.28%.
+Inverse Adversarial Accuracy-	Train: 98.59%.
+Time taken: 0:02:45
+======= Epoch 73 =======
+Loss: 0.3171.	LR: 0.0643
+Standard Accuracy-	Test: 80.74%.
+Inverse Adversarial Accuracy-	Train: 98.59%.
+Time taken: 0:02:45
+======= Epoch 74 =======
+Loss: 0.3083.	LR: 0.0603
+Standard Accuracy-	Test: 88.03%.
+Inverse Adversarial Accuracy-	Train: 98.75%.
+Time taken: 0:02:45
+======= Epoch 75 =======
+Loss: 0.2964.	LR: 0.0563
+Standard Accuracy-	Test: 88.02%.
+Inverse Adversarial Accuracy-	Train: 98.86%.
+Time taken: 0:02:45
+======= Epoch 76 =======
+Loss: 0.2960.	LR: 0.0525
+Standard Accuracy-	Test: 87.95%.
+Inverse Adversarial Accuracy-	Train: 98.67%.
+Time taken: 0:02:45
+======= Epoch 77 =======
+Loss: 0.2728.	LR: 0.0487
+Standard Accuracy-	Test: 88.62%.
+Inverse Adversarial Accuracy-	Train: 98.95%.
+Time taken: 0:02:45
+======= Epoch 78 =======
+Loss: 0.2633.	LR: 0.0451
+Standard Accuracy-	Test: 88.93%.
+Inverse Adversarial Accuracy-	Train: 99.03%.
+Time taken: 0:02:45
+======= Epoch 79 =======
+Loss: 0.2473.	LR: 0.0415
+Standard Accuracy-	Test: 89.42%.
+Inverse Adversarial Accuracy-	Train: 99.09%.
+Time taken: 0:02:45
+======= Epoch 80 =======
+Loss: 0.2373.	LR: 0.0381
+Standard Accuracy-	Test: 88.42%.
+Inverse Adversarial Accuracy-	Train: 99.20%.
+Time taken: 0:02:45
+======= Epoch 81 =======
+Loss: 0.2227.	LR: 0.0347
+Standard Accuracy-	Test: 89.03%.
+Inverse Adversarial Accuracy-	Train: 99.31%.
+Time taken: 0:02:45
+======= Epoch 82 =======
+Loss: 0.2079.	LR: 0.0315
+Standard Accuracy-	Test: 88.79%.
+Inverse Adversarial Accuracy-	Train: 99.37%.
+Time taken: 0:02:45
+======= Epoch 83 =======
+Loss: 0.2010.	LR: 0.0285
+Standard Accuracy-	Test: 90.56%.
+Inverse Adversarial Accuracy-	Train: 99.30%.
+Time taken: 0:02:45
+======= Epoch 84 =======
+Loss: 0.1803.	LR: 0.0255
+Standard Accuracy-	Test: 90.58%.
+Inverse Adversarial Accuracy-	Train: 99.46%.
+Time taken: 0:02:45
+======= Epoch 85 =======
+Loss: 0.1623.	LR: 0.0227
+Standard Accuracy-	Test: 90.56%.
+Inverse Adversarial Accuracy-	Train: 99.56%.
+Time taken: 0:02:45
+======= Epoch 86 =======
+Loss: 0.1383.	LR: 0.0200
+Standard Accuracy-	Test: 91.79%.
+Inverse Adversarial Accuracy-	Train: 99.67%.
+Time taken: 0:02:45
+======= Epoch 87 =======
+Loss: 0.1243.	LR: 0.0175
+Standard Accuracy-	Test: 91.24%.
+Inverse Adversarial Accuracy-	Train: 99.76%.
+Time taken: 0:02:45
+======= Epoch 88 =======
+Loss: 0.1102.	LR: 0.0152
+Standard Accuracy-	Test: 91.40%.
+Inverse Adversarial Accuracy-	Train: 99.79%.
+Time taken: 0:02:45
+======= Epoch 89 =======
+Loss: 0.0917.	LR: 0.0130
+Standard Accuracy-	Test: 92.53%.
+Inverse Adversarial Accuracy-	Train: 99.80%.
+Time taken: 0:02:45
+======= Epoch 90 =======
+Loss: 0.0749.	LR: 0.0109
+Standard Accuracy-	Test: 92.85%.
+Inverse Adversarial Accuracy-	Train: 99.88%.	Test: 98.93%.
+Time taken: 0:03:33
+======= Epoch 91 =======
+Loss: 0.0591.	LR: 0.0091
+Standard Accuracy-	Test: 93.39%.
+Inverse Adversarial Accuracy-	Train: 99.91%.	Test: 98.94%.
+Time taken: 0:03:33
+======= Epoch 92 =======
+Loss: 0.0438.	LR: 0.0074
+Standard Accuracy-	Test: 93.24%.
+Inverse Adversarial Accuracy-	Train: 99.96%.	Test: 98.77%.
+Time taken: 0:03:33
+======= Epoch 93 =======
+Loss: 0.0306.	LR: 0.0058
+Standard Accuracy-	Test: 93.91%.
+Inverse Adversarial Accuracy-	Train: 99.97%.	Test: 98.89%.
+Time taken: 0:03:33
+======= Epoch 94 =======
+Loss: 0.0229.	LR: 0.0045
+Standard Accuracy-	Test: 94.13%.
+Inverse Adversarial Accuracy-	Train: 99.96%.	Test: 98.89%.
+Time taken: 0:03:33
+======= Epoch 95 =======
+Loss: 0.0168.	LR: 0.0033
+Standard Accuracy-	Test: 94.35%.
+Inverse Adversarial Accuracy-	Train: 99.99%.	Test: 98.88%.
+Time taken: 0:03:33
+======= Epoch 96 =======
+Loss: 0.0119.	LR: 0.0023
+Standard Accuracy-	Test: 94.49%.
+Inverse Adversarial Accuracy-	Train: 99.99%.	Test: 98.83%.
+Time taken: 0:03:33
+======= Epoch 97 =======
+Loss: 0.0096.	LR: 0.0015
+Standard Accuracy-	Test: 94.60%.
+Inverse Adversarial Accuracy-	Train: 99.99%.	Test: 98.92%.
+Time taken: 0:03:33
+======= Epoch 98 =======
+Loss: 0.0087.	LR: 0.0008
+Standard Accuracy-	Test: 94.48%.
+Inverse Adversarial Accuracy-	Train: 99.99%.	Test: 98.84%.
+Time taken: 0:03:33
+======= Epoch 99 =======
+Loss: 0.0085.	LR: 0.0004
+Standard Accuracy-	Test: 94.44%.
+Inverse Adversarial Accuracy-	Train: 99.99%.	Test: 98.88%.
+Time taken: 0:03:33
+======= Epoch 100 =======
+Loss: 0.0074.	LR: 0.0001
+Standard Accuracy-	Test: 94.52%.
+Inverse Adversarial Accuracy-	Train: 100.00%.	Test: 98.91%.
+Time taken: 0:03:33
+
+Training completed.
+Standard Accuracy-	Train: 99.83%.	Test: 94.60%.
+Inverse Adversarial Accuracy-	Train: 100.00%.	Test: 98.92%.
+Script Completed.

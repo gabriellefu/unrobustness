@@ -1,0 +1,52 @@
+Using device: cuda
+using standard version including apgd-ce, apgd-t, fab-t, square.
+initial accuracy: 94.25%
+apgd-ce - 1/37 - 246 out of 256 successfully perturbed
+apgd-ce - 2/37 - 250 out of 256 successfully perturbed
+apgd-ce - 3/37 - 249 out of 256 successfully perturbed
+apgd-ce - 4/37 - 246 out of 256 successfully perturbed
+apgd-ce - 5/37 - 249 out of 256 successfully perturbed
+apgd-ce - 6/37 - 243 out of 256 successfully perturbed
+apgd-ce - 7/37 - 253 out of 256 successfully perturbed
+apgd-ce - 8/37 - 245 out of 256 successfully perturbed
+apgd-ce - 9/37 - 241 out of 256 successfully perturbed
+apgd-ce - 10/37 - 251 out of 256 successfully perturbed
+apgd-ce - 11/37 - 251 out of 256 successfully perturbed
+apgd-ce - 12/37 - 242 out of 256 successfully perturbed
+apgd-ce - 13/37 - 244 out of 256 successfully perturbed
+apgd-ce - 14/37 - 239 out of 256 successfully perturbed
+apgd-ce - 15/37 - 246 out of 256 successfully perturbed
+apgd-ce - 16/37 - 240 out of 256 successfully perturbed
+apgd-ce - 17/37 - 250 out of 256 successfully perturbed
+apgd-ce - 18/37 - 240 out of 256 successfully perturbed
+apgd-ce - 19/37 - 246 out of 256 successfully perturbed
+apgd-ce - 20/37 - 245 out of 256 successfully perturbed
+apgd-ce - 21/37 - 249 out of 256 successfully perturbed
+apgd-ce - 22/37 - 249 out of 256 successfully perturbed
+apgd-ce - 23/37 - 243 out of 256 successfully perturbed
+apgd-ce - 24/37 - 249 out of 256 successfully perturbed
+apgd-ce - 25/37 - 248 out of 256 successfully perturbed
+apgd-ce - 26/37 - 245 out of 256 successfully perturbed
+apgd-ce - 27/37 - 248 out of 256 successfully perturbed
+apgd-ce - 28/37 - 246 out of 256 successfully perturbed
+apgd-ce - 29/37 - 245 out of 256 successfully perturbed
+apgd-ce - 30/37 - 244 out of 256 successfully perturbed
+apgd-ce - 31/37 - 250 out of 256 successfully perturbed
+apgd-ce - 32/37 - 249 out of 256 successfully perturbed
+apgd-ce - 33/37 - 250 out of 256 successfully perturbed
+apgd-ce - 34/37 - 246 out of 256 successfully perturbed
+apgd-ce - 35/37 - 248 out of 256 successfully perturbed
+apgd-ce - 36/37 - 243 out of 256 successfully perturbed
+apgd-ce - 37/37 - 201 out of 209 successfully perturbed
+robust accuracy after APGD-CE: 3.56% (total time 391.9 s)
+apgd-t - 1/2 - 38 out of 256 successfully perturbed
+apgd-t - 2/2 - 11 out of 100 successfully perturbed
+robust accuracy after APGD-T: 3.07% (total time 519.9 s)
+fab-t - 1/2 - 0 out of 256 successfully perturbed
+fab-t - 2/2 - 0 out of 51 successfully perturbed
+robust accuracy after FAB-T: 3.07% (total time 674.3 s)
+square - 1/2 - 0 out of 256 successfully perturbed
+square - 2/2 - 0 out of 51 successfully perturbed
+robust accuracy after SQUARE: 3.07% (total time 817.9 s)
+max Linf perturbation: 0.00784, nan in tensor: 0, max: 1.00000, min: 0.00000
+robust accuracy: 3.07%
